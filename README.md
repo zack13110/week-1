@@ -1,8 +1,8 @@
-# homework1
+# Week 1 , programming revisited
 
-This homework helps you to refresh your basic programming skill and also setup your system for the class.
+The lab and homework in this week will help you to refresh your basic programming skill and also setup your system for the class.
 
-The objectives of this homework are following
+The objectives of this week are following
 * Programming abstraction (i.e., function decomposition)
 * Variable naming and scope
 * Input/output range checking
