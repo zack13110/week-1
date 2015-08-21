@@ -30,4 +30,4 @@ Answer: because flag variable have loop for sort number form smaller to larger c
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:faster because program incorrect
+Answer:faster but program incorrect
