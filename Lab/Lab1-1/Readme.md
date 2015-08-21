@@ -21,7 +21,7 @@ Answer: not happen and skip to next number
 
 3. How many times at line 24 will be executed (as a function of the size of input) 
 
-Answer: 24 times
+Answer: 27 times from smaller to larger 15 times from larger to smaller
 
 4. Why we need flag variable ? 
 
